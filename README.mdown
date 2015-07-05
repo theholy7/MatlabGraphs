@@ -1,0 +1,6 @@
+#Matlab Graphs Object
+##Introduction
+
+I created this Graph Object for my MSc Thesis, as I needed to work with graphs and plot them.
+
+This object creates random graphs in a 10x10 unit R2 space and adds random edges to all nodes within the established radius, until the limit is reached.
